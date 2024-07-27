@@ -1,5 +1,3 @@
---
-
 <h1 align="center">Hey,&nbsp; I'm Wellington Avelino</h1>
 <h3 align="center">A Software Engineer from Brazil working in The Netherlands </h3>
 
