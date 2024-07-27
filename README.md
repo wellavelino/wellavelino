@@ -7,7 +7,6 @@
 * 👷🏻 Current working at [ServiceNow](https://servicenow.com) as Senior Software Engineer
 * 💪🏻 Strong knowledge on Testing, BuildTools, Engineering
 * ❤️ Passion for Dev/Ops Culture and AppSec
-* 📧 
 
 #### Learning
 
