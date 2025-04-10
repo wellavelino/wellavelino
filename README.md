@@ -10,7 +10,7 @@
 
 #### Learning
 
-* 🧑‍💻 I'm currently learning `Rust, Golang on Backend Development`.
+* 🧑‍💻 I'm currently learning `Golang on Backend Development`.
 * 🚧 I'm also learning [NeoVim](https://github.com/neovim/neovim)
 
 #### Write ups
