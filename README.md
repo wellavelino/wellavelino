@@ -10,8 +10,8 @@
 
 #### Learning
 
-* 🧑‍💻 I'm currently learning `Golang on Backend Development`.
-* 🚧 I'm also learning [NeoVim](https://github.com/neovim/neovim)
+* AI orchestration
+* Distributed systems
 
 #### Write ups
 
