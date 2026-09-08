@@ -4,7 +4,7 @@
 <h3> ‍💻 &nbsp;About Me </h3>
 
 #### Bio
-* 👷🏻 Current working at [ServiceNow](https://servicenow.com) as Senior Software Engineer
+* 👷🏻 Current working at [ServiceNow](https://servicenow.com) as Staff Software Engineer
 * 💪🏻 Strong knowledge on Testing, BuildTools, Engineering
 * ❤️ Passion for Dev/Ops Culture and AppSec
 
