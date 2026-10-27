@@ -4,6 +4,7 @@
     .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
     .cursor { animation: blink 1.1s steps(1) infinite; }
     @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .cursor { animation: none; } }
   </style>
   <rect x="0.5" y="0.5" width="829" height="229" rx="10" fill="#0D1117" stroke="#30363D"/>
   <text x="32" y="40" class="mono" font-size="13" fill="#8B949E">wellavelino / <tspan fill="#E6EDF3" font-weight="600">career</tspan> / CHANGELOG.md</text>

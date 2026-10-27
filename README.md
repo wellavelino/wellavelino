@@ -96,7 +96,7 @@ Staff Software Engineer at **ServiceNow**. I build backend systems, and the test
 
 ## Side projects
 
-Products I design, build, test and run in production on my own, in TypeScript, Go, Python and Swift, and with AI agents.
+Products I design, build, test and run in production on my own, in TypeScript, Python and Swift, and with AI agents.
 
 | Package | What it does | Built with |
 |---|---|---|
