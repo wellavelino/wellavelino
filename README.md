@@ -1,7 +1,7 @@
 # Wellington Avelino
 
 **Staff Software Engineer at ServiceNow**, building large-scale enterprise software. Backend systems, and the test and build infrastructure behind them.<br>
-<sub>Amsterdam · 12 years · Portuguese, English</sub>
+<sub>Amsterdam · 12 years of experience · Portuguese, English</sub>
 
 I help product teams ship faster without breaking things. I have built the features, led the quality work, and written the tooling that sits between the two. If your team is slowed down by flaky tests, slow builds or unclear ownership of quality, I would like to hear about it.
 
